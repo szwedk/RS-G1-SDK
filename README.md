@@ -75,7 +75,7 @@ You can export static pages using `next export` if needed.
 
 ## 📄 License
 
-MIT (or private — define based on your future usage)
+MIT
 
 ---
 
